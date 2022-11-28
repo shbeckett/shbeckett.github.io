@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Olimpia Milano inizia nei migliori dei modi il nuovp anno",
+        "description": "Foul!",
+        "matchDay": 1,
+        "date": "2023-01-06 14:30",
+        "score": {
+            "Olimpia Milano": 100,
+            "Virtus Bologna": 99
+        },
+        "thumbnail": "https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/00_copertina_ciamillo.jpg.transform/hero-intro-desktop-2x/65a92d6987d21ec4e06232adcd61129d1fe0e517/img.jpg",
+        "poster": "https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/00_copertina_ciamillo.jpg.transform/hero-intro-desktop-2x/65a92d6987d21ec4e06232adcd61129d1fe0e517/img.jpg",
+        "vodURL": "https://d8d913s460fub.cloudfront.net/krpanocloud/video/airpano/video-1920x960a-fs.mp4"
+    },
+    {
+        "id": 2,
+        "title": "Olimpia Milano inizia nei migliori dei modi il nuovp anno",
+        "description": "What a shot!",
+        "matchDay": 2,
+        "date": "2023-01-06 14:30",
+        "score": {
+            "Olimpia Milano": 100,
+            "Pisa": 15
+        },
+        "thumbnail": "https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/01_villeurbanne_ciamillo.JPG.transform/gallery-horizontal-desktop-2x/9b18c7390bf249721c9aef0c8ff0cf202e10de39/img.jpg",
+        "poster":"https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/01_villeurbanne_ciamillo.JPG.transform/gallery-horizontal-desktop-2x/9b18c7390bf249721c9aef0c8ff0cf202e10de39/img.jpg",
+        "vodURL": "https://d8d913s460fub.cloudfront.net/krpanocloud/video/airpano/video-1920x960a-fs.mp4"
+    },
+    {
+        "id": 3,
+        "title": "Olimpia Milano inizia nei migliori dei modi il nuovp anno",
+        "description": "Drama!",
+        "matchDay": 3,
+        "date": "2023-01-06 14:30",
+        "score": {
+            "Olimpia Milano": 94,
+            "Firenze": 52
+        },
+        "thumbnail": "https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/02-alba_ciamillo.JPG.transform/gallery-horizontal-desktop-2x/ef1b8ea0ecde0194e442f7929eab24a54bb685b5/img.jpg",
+        "poster":"https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/02-alba_ciamillo.JPG.transform/gallery-horizontal-desktop-2x/ef1b8ea0ecde0194e442f7929eab24a54bb685b5/img.jpg",
+        "vodURL": "https://d8d913s460fub.cloudfront.net/krpanocloud/video/airpano/video-1920x960a-fs.mp4"
+    },
+    {
+        "id": 4,
+        "title": "The fourth",
+        "description": "whistle",
+        "matchDay": 4,
+        "date": "2023-01-07 14:30",
+        "score": {
+            "Olimpia Milano": 81,
+            "Tezenis Verona": 65
+        },
+        "thumbnail": "https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/04_bayern_monaco_ciamillo.jpg.transform/gallery-horizontal-desktop-2x/5d2c390f4d7bbfe0e1ceff30817c7ec6c93e5fac/img.jpg",
+        "poster":"https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/04_bayern_monaco_ciamillo.jpg.transform/gallery-horizontal-desktop-2x/5d2c390f4d7bbfe0e1ceff30817c7ec6c93e5fac/img.jpg",
+        "vodURL": "https://d8d913s460fub.cloudfront.net/krpanocloud/video/airpano/video-1920x960a-fs.mp4"
+    },
+    {
+        "id": 5,
+        "title": "Fifth One",
+        "description": "fight",
+        "matchDay": 5,
+        "date": "2023-01-07 14:30",
+        "score": {
+            "Olimpia Milano": 81,
+            "Potenza": 23
+        },
+        "thumbnail": "https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/05_barcellona_ciamillo.jpg.transform/gallery-horizontal-desktop-2x/88fd760b269295c29e8ad5c6407b2bb389646d97/img.jpg",
+        "poster":"https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/05_barcellona_ciamillo.jpg.transform/gallery-horizontal-desktop-2x/88fd760b269295c29e8ad5c6407b2bb389646d97/img.jpg",
+        "vodURL": "https://d8d913s460fub.cloudfront.net/krpanocloud/video/airpano/video-1920x960a-fs.mp4"
+    }
+]
