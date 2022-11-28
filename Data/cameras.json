@@ -1,0 +1,38 @@
+[
+    {
+      "streamingId": "1",
+      "title": "Camera 1",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lobortis maximus quam, at eleifend erat condimentum ut.",
+      "thumbnail": "https://static.sky.it/images/skysport/it/nba/2022/11/23/nba-phoenix-suns-lakers-rissa-video/lakers_phoenix.jpg.transform/hero-desktop/d5efcbce30dafa2aa5a0afe46e98db30fb6f9c1e/img.jpg"
+    },
+    {
+      "streamingId": "2",
+      "title": "Camera 2",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lobortis maximus quam, at eleifend erat condimentum ut.",
+      "thumbnail": "https://static.sky.it/images/skysport/it/nba/2022/11/23/nba-phoenix-suns-lakers-rissa-video/lakers_phoenix.jpg.transform/hero-desktop/d5efcbce30dafa2aa5a0afe46e98db30fb6f9c1e/img.jpg"
+    },
+    {
+      "streamingId": "3",
+      "title": "Camera 3",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lobortis maximus quam, at eleifend erat condimentum ut.",
+      "thumbnail": "https://static.sky.it/images/skysport/it/nba/2022/11/23/nba-phoenix-suns-lakers-rissa-video/lakers_phoenix.jpg.transform/hero-desktop/d5efcbce30dafa2aa5a0afe46e98db30fb6f9c1e/img.jpg"
+    },
+    {
+      "streamingId": "4'", 
+      "title": "Camera 4",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lobortis maximus quam, at eleifend erat condimentum ut.",
+      "thumbnail": "https://static.sky.it/images/skysport/it/nba/2022/11/23/nba-phoenix-suns-lakers-rissa-video/lakers_phoenix.jpg.transform/hero-desktop/d5efcbce30dafa2aa5a0afe46e98db30fb6f9c1e/img.jpg"
+    },
+    {
+      "streamingId": "5", 
+      "title": "Camera 5",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lobortis maximus quam, at eleifend erat condimentum ut.",
+      "thumbnail": "https://static.sky.it/images/skysport/it/nba/2022/11/23/nba-phoenix-suns-lakers-rissa-video/lakers_phoenix.jpg.transform/hero-desktop/d5efcbce30dafa2aa5a0afe46e98db30fb6f9c1e/img.jpg"
+    },
+    {
+      "streamingId": "6",
+      "title": "Camera 6",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lobortis maximus quam, at eleifend erat condimentum ut",
+      "thumbnail": "https://static.sky.it/images/skysport/it/nba/2022/11/23/nba-phoenix-suns-lakers-rissa-video/lakers_phoenix.jpg.transform/hero-desktop/d5efcbce30dafa2aa5a0afe46e98db30fb6f9c1e/img.jpg"
+    }
+]
