@@ -1,0 +1,794 @@
+[
+    {
+      "Color Name": "All White",
+      "Color Number": 2005,
+      "Hex": "#FBF8F4",
+      "RGB": "rgb(251, 248, 244)"
+    },
+    {
+      "Color Name": "Wevet",
+      "Color Number": 273,
+      "Hex": "#EEE9E7",
+      "RGB": "rgb(238, 233, 231)"
+    },
+    {
+      "Color Name": "Wimborne White",
+      "Color Number": 239,
+      "Hex": "#F7F3E8",
+      "RGB": "rgb(247, 243, 232)"
+    },
+    {
+      "Color Name": "Pointing",
+      "Color Number": 2003,
+      "Hex": "#F7F1E3",
+      "RGB": "rgb(247, 241, 227)"
+    },
+    {
+      "Color Name": "James White",
+      "Color Number": 2010,
+      "Hex": "#EDE9D8",
+      "RGB": "rgb(237, 233, 216)"
+    },
+    {
+      "Color Name": "Stony Ground",
+      "Color Number": 211,
+      "Hex": "#CEC1AD",
+      "RGB": "rgb(206, 193, 173)"
+    },
+    {
+      "Color Name": "White Tie",
+      "Color Number": 2002,
+      "Hex": "#F5ECD9",
+      "RGB": "rgb(245, 236, 217)"
+    },
+    {
+      "Color Name": "New White",
+      "Color Number": 59,
+      "Hex": "#F5E8D0",
+      "RGB": "rgb(245, 232, 208)"
+    },
+    {
+      "Color Name": "Matchstick",
+      "Color Number": 2013,
+      "Hex": "#E4D5BC",
+      "RGB": "rgb(228, 213, 188)"
+    },
+    {
+      "Color Name": "String",
+      "Color Number": 8,
+      "Hex": "#DDCDAE",
+      "RGB": "rgb(221, 205, 174)"
+    },
+    {
+      "Color Name": "Savage Ground",
+      "Color Number": 213,
+      "Hex": "#D8C4A8",
+      "RGB": "rgb(216, 196, 168)"
+    },
+    {
+      "Color Name": "Cord",
+      "Color Number": 16,
+      "Hex": "#D6C39E",
+      "RGB": "rgb(214, 195, 158)"
+    },
+    {
+      "Color Name": "Slipper Satin",
+      "Color Number": 2004,
+      "Hex": "#E8E0D1",
+      "RGB": "rgb(232, 224, 209)"
+    },
+    {
+      "Color Name": "Lime White",
+      "Color Number": 1,
+      "Hex": "#E8DEC9",
+      "RGB": "rgb(232, 222, 201)"
+    },
+    {
+      "Color Name": "Off-White",
+      "Color Number": 3,
+      "Hex": "#E0D5BE",
+      "RGB": "rgb(224, 213, 190)"
+    },
+    {
+      "Color Name": "Old White",
+      "Color Number": 4,
+      "Hex": "#CFC3AD",
+      "RGB": "rgb(207, 195, 173)"
+    },
+    {
+      "Color Name": "Light Gray",
+      "Color Number": 17,
+      "Hex": "#B4A693",
+      "RGB": "rgb(180, 166, 147)"
+    },
+    {
+      "Color Name": "Mouse's Back",
+      "Color Number": 40,
+      "Hex": "#998976",
+      "RGB": "rgb(153, 137, 118)"
+    },
+    {
+      "Color Name": "School House White",
+      "Color Number": 291,
+      "Hex": "#E6DFD1",
+      "RGB": "rgb(230, 223, 209)"
+    },
+    {
+      "Color Name": "Shadow White",
+      "Color Number": 282,
+      "Hex": "#DED8C6",
+      "RGB": "rgb(222, 216, 198)"
+    },
+    {
+      "Color Name": "Shaded White",
+      "Color Number": 201,
+      "Hex": "#D9D2C1",
+      "RGB": "rgb(217, 210, 193)"
+    },
+    {
+      "Color Name": "Drop Cloth",
+      "Color Number": 283,
+      "Hex": "#C9BEAB",
+      "RGB": "rgb(201, 190, 171)"
+    },
+    {
+      "Color Name": "Bone",
+      "Color Number": 15,
+      "Hex": "#CEC3AD",
+      "RGB": "rgb(206, 195, 173)"
+    },
+    {
+      "Color Name": "Hardwick White",
+      "Color Number": 5,
+      "Hex": "#B5AFA0",
+      "RGB": "rgb(181, 175, 160)"
+    },
+    {
+      "Color Name": "Dimity",
+      "Color Number": 2008,
+      "Hex": "#EEE3D3",
+      "RGB": "rgb(238, 227, 211)"
+    },
+    {
+      "Color Name": "Joa's White",
+      "Color Number": 226,
+      "Hex": "#DECFB9",
+      "RGB": "rgb(222, 207, 185)"
+    },
+    {
+      "Color Name": "Oxford Stone",
+      "Color Number": 264,
+      "Hex": "#D6C2AC",
+      "RGB": "rgb(214, 194, 172)"
+    },
+    {
+      "Color Name": "London Stone",
+      "Color Number": 6,
+      "Hex": "#B6A38F",
+      "RGB": "rgb(182, 163, 143)"
+    },
+    {
+      "Color Name": "Dead Salmon",
+      "Color Number": 28,
+      "Hex": "#B49D8D",
+      "RGB": "rgb(180, 157, 141)"
+    },
+    {
+      "Color Name": "Salon Drab",
+      "Color Number": 290,
+      "Hex": "#726454",
+      "RGB": "rgb(114, 100, 84)"
+    },
+    {
+      "Color Name": "Strong White",
+      "Color Number": 2001,
+      "Hex": "#E5E0DB",
+      "RGB": "rgb(229, 224, 219)"
+    },
+    {
+      "Color Name": "Ammonite",
+      "Color Number": 274,
+      "Hex": "#DDD8CF",
+      "RGB": "rgb(221, 216, 207)"
+    },
+    {
+      "Color Name": "Cornforth White",
+      "Color Number": 228,
+      "Hex": "#D1CBC3",
+      "RGB": "rgb(209, 203, 195)"
+    },
+    {
+      "Color Name": "Purbeck Stone",
+      "Color Number": 275,
+      "Hex": "#C4BEB4",
+      "RGB": "rgb(196, 190, 180)"
+    },
+    {
+      "Color Name": "Worsted",
+      "Color Number": 284,
+      "Hex": "#D3CFCD",
+      "RGB": "rgb(211, 207, 205)"
+    },
+    {
+      "Color Name": "Mole's Breath",
+      "Color Number": 276,
+      "Hex": "#8B857F",
+      "RGB": "rgb(139, 133, 127)"
+    },
+    {
+      "Color Name": "Cromarty",
+      "Color Number": 285,
+      "Hex": "#CFCEC0",
+      "RGB": "rgb(207, 206, 192)"
+    },
+    {
+      "Color Name": "Mizzle",
+      "Color Number": 266,
+      "Hex": "#C0C2B3",
+      "RGB": "rgb(192, 194, 179)"
+    },
+    {
+      "Color Name": "Blue Gray",
+      "Color Number": 91,
+      "Hex": "#B4B4A3",
+      "RGB": "rgb(180, 180, 163)"
+    },
+    {
+      "Color Name": "Pigeon",
+      "Color Number": 25,
+      "Hex": "#A1A093",
+      "RGB": "rgb(161, 160, 147)"
+    },
+    {
+      "Color Name": "French Gray",
+      "Color Number": 18,
+      "Hex": "#B5B19A",
+      "RGB": "rgb(181, 177, 154)"
+    },
+    {
+      "Color Name": "Treron",
+      "Color Number": 292,
+      "Hex": "#8B8A77",
+      "RGB": "rgb(139, 138, 119)"
+    },
+    {
+      "Color Name": "Blackened",
+      "Color Number": 2011,
+      "Hex": "#DDDBD9",
+      "RGB": "rgb(221, 219, 217)"
+    },
+    {
+      "Color Name": "Dimpse",
+      "Color Number": 277,
+      "Hex": "#D9D8D3",
+      "RGB": "rgb(217, 216, 211)"
+    },
+    {
+      "Color Name": "Pavilion Gray",
+      "Color Number": 242,
+      "Hex": "#C8C3BC",
+      "RGB": "rgb(200, 195, 188)"
+    },
+    {
+      "Color Name": "Lamp Room Gray",
+      "Color Number": 88,
+      "Hex": "#B2B1A9",
+      "RGB": "rgb(178, 177, 169)"
+    },
+    {
+      "Color Name": "Manor House Gray",
+      "Color Number": 265,
+      "Hex": "#A2A29D",
+      "RGB": "rgb(162, 162, 157)"
+    },
+    {
+      "Color Name": "Plummett",
+      "Color Number": 272,
+      "Hex": "#8D8D8B",
+      "RGB": "rgb(141, 141, 139)"
+    },
+    {
+      "Color Name": "Skimming Stone",
+      "Color Number": 241,
+      "Hex": "#DFD6CB",
+      "RGB": "rgb(223, 214, 203)"
+    },
+    {
+      "Color Name": "Elephant's Breath",
+      "Color Number": 229,
+      "Hex": "#CCBFB3",
+      "RGB": "rgb(204, 191, 179)"
+    },
+    {
+      "Color Name": "Dove Tale",
+      "Color Number": 267,
+      "Hex": "#BBB1AB",
+      "RGB": "rgb(187, 177, 171)"
+    },
+    {
+      "Color Name": "Charleston Gray",
+      "Color Number": 243,
+      "Hex": "#9F9389",
+      "RGB": "rgb(159, 147, 137)"
+    },
+    {
+      "Color Name": "London Clay",
+      "Color Number": 244,
+      "Hex": "#786963",
+      "RGB": "rgb(120, 105, 99)"
+    },
+    {
+      "Color Name": "Brinjal",
+      "Color Number": 222,
+      "Hex": "#5D3B42",
+      "RGB": "rgb(93, 59, 66)"
+    },
+    {
+      "Color Name": "Jitney",
+      "Color Number": 293,
+      "Hex": "#C4B2A2",
+      "RGB": "rgb(196, 178, 162)"
+    },
+    {
+      "Color Name": "Peignoir",
+      "Color Number": 286,
+      "Hex": "#D6C8C3",
+      "RGB": "rgb(214, 200, 195)"
+    },
+    {
+      "Color Name": "Calluna",
+      "Color Number": 270,
+      "Hex": "#CCC8CE",
+      "RGB": "rgb(204, 200, 206)"
+    },
+    {
+      "Color Name": "Brassica",
+      "Color Number": 271,
+      "Hex": "#8D8089",
+      "RGB": "rgb(141, 128, 137)"
+    },
+    {
+      "Color Name": "Pelt",
+      "Color Number": 254,
+      "Hex": "#50414C",
+      "RGB": "rgb(80, 65, 76)"
+    },
+    {
+      "Color Name": "Paean Black",
+      "Color Number": 294,
+      "Hex": "#494248",
+      "RGB": "rgb(73, 66, 72)"
+    },
+    {
+      "Color Name": "Middleton Pink",
+      "Color Number": 245,
+      "Hex": "#FDE7E5",
+      "RGB": "rgb(253, 231, 229)"
+    },
+    {
+      "Color Name": "Calamine",
+      "Color Number": 230,
+      "Hex": "#E6D1CB",
+      "RGB": "rgb(230, 209, 203)"
+    },
+    {
+      "Color Name": "Nancy's Blushes",
+      "Color Number": 278,
+      "Hex": "#ECB7B8",
+      "RGB": "rgb(236, 183, 184)"
+    },
+    {
+      "Color Name": "Red Earth",
+      "Color Number": 64,
+      "Hex": "#C57B67",
+      "RGB": "rgb(197, 123, 103)"
+    },
+    {
+      "Color Name": "Picture Gallery Red",
+      "Color Number": 42,
+      "Hex": "#A15A4D",
+      "RGB": "rgb(161, 90, 77)"
+    },
+    {
+      "Color Name": "Incarnadine",
+      "Color Number": 248,
+      "Hex": "#A04344",
+      "RGB": "rgb(160, 67, 68)"
+    },
+    {
+      "Color Name": "Great White",
+      "Color Number": 2006,
+      "Hex": "#E7DEDB",
+      "RGB": "rgb(231, 222, 219)"
+    },
+    {
+      "Color Name": "Sulking Room Pink",
+      "Color Number": 295,
+      "Hex": "#A0837F",
+      "RGB": "rgb(160, 131, 127)"
+    },
+    {
+      "Color Name": "Cinder Rose",
+      "Color Number": 246,
+      "Hex": "#C7A4A6",
+      "RGB": "rgb(199, 164, 166)"
+    },
+    {
+      "Color Name": "Rangwali",
+      "Color Number": 296,
+      "Hex": "#BF7A8F",
+      "RGB": "rgb(191, 122, 143)"
+    },
+    {
+      "Color Name": "Pink Ground",
+      "Color Number": 202,
+      "Hex": "#EFD6C7",
+      "RGB": "rgb(239, 214, 199)"
+    },
+    {
+      "Color Name": "Setting Plaster",
+      "Color Number": 231,
+      "Hex": "#DFC2AF",
+      "RGB": "rgb(223, 194, 175)"
+    },
+    {
+      "Color Name": "Rectory Red",
+      "Color Number": 217,
+      "Hex": "#A53C49",
+      "RGB": "rgb(165, 60, 73)"
+    },
+    {
+      "Color Name": "Eating Room Red",
+      "Color Number": 43,
+      "Hex": "#8F4E4D",
+      "RGB": "rgb(143, 78, 77)"
+    },
+    {
+      "Color Name": "Radicchio",
+      "Color Number": 96,
+      "Hex": "#994A50",
+      "RGB": "rgb(153, 74, 80)"
+    },
+    {
+      "Color Name": "Preference Red",
+      "Color Number": 297,
+      "Hex": "#6D4247",
+      "RGB": "rgb(109, 66, 71)"
+    },
+    {
+      "Color Name": "Charlotte's Locks",
+      "Color Number": 268,
+      "Hex": "#D65F3D",
+      "RGB": "rgb(214, 95, 61)"
+    },
+    {
+      "Color Name": "Blazer",
+      "Color Number": 212,
+      "Hex": "#B64F48",
+      "RGB": "rgb(182, 79, 72)"
+    },
+    {
+      "Color Name": "House White",
+      "Color Number": 2012,
+      "Hex": "#F1E6C8",
+      "RGB": "rgb(241, 230, 200)"
+    },
+    {
+      "Color Name": "Pale Hound",
+      "Color Number": 71,
+      "Hex": "#EADFB7",
+      "RGB": "rgb(234, 223, 183)"
+    },
+    {
+      "Color Name": "Dayroom Yellow",
+      "Color Number": 233,
+      "Hex": "#F7E29D",
+      "RGB": "rgb(247, 226, 157)"
+    },
+    {
+      "Color Name": "Citron",
+      "Color Number": 74,
+      "Hex": "#F5D27B",
+      "RGB": "rgb(245, 210, 123)"
+    },
+    {
+      "Color Name": "Yellow Ground",
+      "Color Number": 218,
+      "Hex": "#F2CF86",
+      "RGB": "rgb(242, 207, 134)"
+    },
+    {
+      "Color Name": "Babouche",
+      "Color Number": 223,
+      "Hex": "#ECC363",
+      "RGB": "rgb(236, 195, 99)"
+    },
+    {
+      "Color Name": "Tallow",
+      "Color Number": 203,
+      "Hex": "#FDEDD7",
+      "RGB": "rgb(253, 237, 215)"
+    },
+    {
+      "Color Name": "Farrow's Cream",
+      "Color Number": 67,
+      "Hex": "#EFDBB3",
+      "RGB": "rgb(239, 219, 179)"
+    },
+    {
+      "Color Name": "Dorset Cream",
+      "Color Number": 68,
+      "Hex": "#EFD5A1",
+      "RGB": "rgb(239, 213, 161)"
+    },
+    {
+      "Color Name": "Hay",
+      "Color Number": 37,
+      "Hex": "#DFC795",
+      "RGB": "rgb(223, 199, 149)"
+    },
+    {
+      "Color Name": "Sudbury Yellow",
+      "Color Number": 51,
+      "Hex": "#DCB771",
+      "RGB": "rgb(220, 183, 113)"
+    },
+    {
+      "Color Name": "India Yellow",
+      "Color Number": 66,
+      "Hex": "#CB9E59",
+      "RGB": "rgb(203, 158, 89)"
+    },
+    {
+      "Color Name": "Green Ground",
+      "Color Number": 206,
+      "Hex": "#DBDAB6",
+      "RGB": "rgb(219, 218, 182)"
+    },
+    {
+      "Color Name": "Cooking Apple Green",
+      "Color Number": 32,
+      "Hex": "#C4C6A5",
+      "RGB": "rgb(196, 198, 165)"
+    },
+    {
+      "Color Name": "Ball Green",
+      "Color Number": 75,
+      "Hex": "#BCB596",
+      "RGB": "rgb(188, 181, 150)"
+    },
+    {
+      "Color Name": "Card Room Green",
+      "Color Number": 79,
+      "Hex": "#899081",
+      "RGB": "rgb(137, 144, 129)"
+    },
+    {
+      "Color Name": "Green Smoke",
+      "Color Number": 47,
+      "Hex": "#737C70",
+      "RGB": "rgb(115, 124, 112)"
+    },
+    {
+      "Color Name": "Studio Green",
+      "Color Number": 93,
+      "Hex": "#464C49",
+      "RGB": "rgb(70, 76, 73)"
+    },
+    {
+      "Color Name": "Churlish Green",
+      "Color Number": 251,
+      "Hex": "#C8BD83",
+      "RGB": "rgb(200, 189, 131)"
+    },
+    {
+      "Color Name": "Yeabridge Green",
+      "Color Number": 287,
+      "Hex": "#919F70",
+      "RGB": "rgb(145, 159, 112)"
+    },
+    {
+      "Color Name": "Breakfast Room Green",
+      "Color Number": 81,
+      "Hex": "#94A68A",
+      "RGB": "rgb(148, 166, 138)"
+    },
+    {
+      "Color Name": "Calke Green",
+      "Color Number": 34,
+      "Hex": "#768769",
+      "RGB": "rgb(118, 135, 105)"
+    },
+    {
+      "Color Name": "Bancha",
+      "Color Number": 298,
+      "Hex": "#686A47",
+      "RGB": "rgb(104, 106, 71)"
+    },
+    {
+      "Color Name": "Arsenic",
+      "Color Number": 214,
+      "Hex": "#84B59C",
+      "RGB": "rgb(132, 181, 156)"
+    },
+    {
+      "Color Name": "Vert de Terre",
+      "Color Number": 234,
+      "Hex": "#BABBA5",
+      "RGB": "rgb(186, 187, 165)"
+    },
+    {
+      "Color Name": "Lichen",
+      "Color Number": 19,
+      "Hex": "#A1A189",
+      "RGB": "rgb(161, 161, 137)"
+    },
+    {
+      "Color Name": "Oval Room Blue",
+      "Color Number": 85,
+      "Hex": "#8B9D9B",
+      "RGB": "rgb(139, 157, 155)"
+    },
+    {
+      "Color Name": "Stone Blue",
+      "Color Number": 86,
+      "Hex": "#7997A1",
+      "RGB": "rgb(121, 151, 161)"
+    },
+    {
+      "Color Name": "De Nimes",
+      "Color Number": 299,
+      "Hex": "#6A7C80",
+      "RGB": "rgb(106, 124, 128)"
+    },
+    {
+      "Color Name": "Inchyra Blue",
+      "Color Number": 289,
+      "Hex": "#586768",
+      "RGB": "rgb(88, 103, 104)"
+    },
+    {
+      "Color Name": "Pavilion Blue",
+      "Color Number": 252,
+      "Hex": "#E5E7DC",
+      "RGB": "rgb(229, 231, 220)"
+    },
+    {
+      "Color Name": "Pale Powder",
+      "Color Number": 204,
+      "Hex": "#D9DCD2",
+      "RGB": "rgb(217, 220, 210)"
+    },
+    {
+      "Color Name": "Teresa's Green",
+      "Color Number": 236,
+      "Hex": "#C0CDC2",
+      "RGB": "rgb(192, 205, 194)"
+    },
+    {
+      "Color Name": "Green Blue",
+      "Color Number": 84,
+      "Hex": "#ADBDB2",
+      "RGB": "rgb(173, 189, 178)"
+    },
+    {
+      "Color Name": "Dix Blue",
+      "Color Number": 82,
+      "Hex": "#99B0AB",
+      "RGB": "rgb(153, 176, 171)"
+    },
+    {
+      "Color Name": "Vardo",
+      "Color Number": 288,
+      "Hex": "#427E83",
+      "RGB": "rgb(66, 126, 131)"
+    },
+    {
+      "Color Name": "Borrowed Light",
+      "Color Number": 235,
+      "Hex": "#D5DBDB",
+      "RGB": "rgb(213, 219, 219)"
+    },
+    {
+      "Color Name": "Skylight",
+      "Color Number": 205,
+      "Hex": "#CCD0CD",
+      "RGB": "rgb(204, 208, 205)"
+    },
+    {
+      "Color Name": "Light Blue",
+      "Color Number": 22,
+      "Hex": "#B8BCB5",
+      "RGB": "rgb(184, 188, 181)"
+    },
+    {
+      "Color Name": "Parma Gray",
+      "Color Number": 27,
+      "Hex": "#B2BFC5",
+      "RGB": "rgb(178, 191, 197)"
+    },
+    {
+      "Color Name": "Lulworth Blue",
+      "Color Number": 89,
+      "Hex": "#A1B8CA",
+      "RGB": "rgb(161, 184, 202)"
+    },
+    {
+      "Color Name": "Cook's Blue",
+      "Color Number": 237,
+      "Hex": "#6A90B4",
+      "RGB": "rgb(106, 144, 180)"
+    },
+    {
+      "Color Name": "Cabbage White",
+      "Color Number": 269,
+      "Hex": "#E8EEEA",
+      "RGB": "rgb(232, 238, 234)"
+    },
+    {
+      "Color Name": "Blue Ground",
+      "Color Number": 210,
+      "Hex": "#A1C5C8",
+      "RGB": "rgb(161, 197, 200)"
+    },
+    {
+      "Color Name": "St Giles Blue",
+      "Color Number": 280,
+      "Hex": "#599EC4",
+      "RGB": "rgb(89, 158, 196)"
+    },
+    {
+      "Color Name": "Pitch Blue",
+      "Color Number": 220,
+      "Hex": "#636E8F",
+      "RGB": "rgb(99, 110, 143)"
+    },
+    {
+      "Color Name": "Stiffkey Blue",
+      "Color Number": 281,
+      "Hex": "#4D5B6A",
+      "RGB": "rgb(77, 91, 106)"
+    },
+    {
+      "Color Name": "Hague Blue",
+      "Color Number": 30,
+      "Hex": "#3D4E57",
+      "RGB": "rgb(61, 78, 87)"
+    },
+    {
+      "Color Name": "Mahogany",
+      "Color Number": 36,
+      "Hex": "#534644",
+      "RGB": "rgb(83, 70, 68)"
+    },
+    {
+      "Color Name": "Tanner's Brown",
+      "Color Number": 255,
+      "Hex": "#4D4746",
+      "RGB": "rgb(77, 71, 70)"
+    },
+    {
+      "Color Name": "Down Pipe",
+      "Color Number": 26,
+      "Hex": "#626664",
+      "RGB": "rgb(98, 102, 100)"
+    },
+    {
+      "Color Name": "Railings",
+      "Color Number": 31,
+      "Hex": "#45484B",
+      "RGB": "rgb(69, 72, 75)"
+    },
+    {
+      "Color Name": "Off-Black",
+      "Color Number": 57,
+      "Hex": "#444546",
+      "RGB": "rgb(68, 69, 70)"
+    },
+    {
+      "Color Name": "Pitch Black",
+      "Color Number": 256,
+      "Hex": "#3B3938",
+      "RGB": "rgb(59, 57, 56)"
+    }
+   ]
