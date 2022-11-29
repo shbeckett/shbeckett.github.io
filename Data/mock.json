@@ -11,7 +11,7 @@
         },
         "thumbnail": "https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/00_copertina_ciamillo.jpg.transform/hero-intro-desktop-2x/65a92d6987d21ec4e06232adcd61129d1fe0e517/img.jpg",
         "poster": "https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/00_copertina_ciamillo.jpg.transform/hero-intro-desktop-2x/65a92d6987d21ec4e06232adcd61129d1fe0e517/img.jpg",
-        "vodURL": "https://d8d913s460fub.cloudfront.net/krpanocloud/video/airpano/video-1920x960a-fs.mp4"
+        "vodURL": "https://videos.electroteque.org/360/hls/ultra_light_flight.m3u8"
     },
     {
         "id": 2,
@@ -25,7 +25,7 @@
         },
         "thumbnail": "https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/01_villeurbanne_ciamillo.JPG.transform/gallery-horizontal-desktop-2x/9b18c7390bf249721c9aef0c8ff0cf202e10de39/img.jpg",
         "poster":"https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/01_villeurbanne_ciamillo.JPG.transform/gallery-horizontal-desktop-2x/9b18c7390bf249721c9aef0c8ff0cf202e10de39/img.jpg",
-        "vodURL": "https://d8d913s460fub.cloudfront.net/krpanocloud/video/airpano/video-1920x960a-fs.mp4"
+        "vodURL": "https://videos.electroteque.org/360/hls/ultra_light_flight.m3u8"
     },
     {
         "id": 3,
@@ -39,7 +39,7 @@
         },
         "thumbnail": "https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/02-alba_ciamillo.JPG.transform/gallery-horizontal-desktop-2x/ef1b8ea0ecde0194e442f7929eab24a54bb685b5/img.jpg",
         "poster":"https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/02-alba_ciamillo.JPG.transform/gallery-horizontal-desktop-2x/ef1b8ea0ecde0194e442f7929eab24a54bb685b5/img.jpg",
-        "vodURL": "https://d8d913s460fub.cloudfront.net/krpanocloud/video/airpano/video-1920x960a-fs.mp4"
+        "vodURL": "https://videos.electroteque.org/360/hls/ultra_light_flight.m3u8"
     },
     {
         "id": 4,
@@ -53,7 +53,7 @@
         },
         "thumbnail": "https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/04_bayern_monaco_ciamillo.jpg.transform/gallery-horizontal-desktop-2x/5d2c390f4d7bbfe0e1ceff30817c7ec6c93e5fac/img.jpg",
         "poster":"https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/04_bayern_monaco_ciamillo.jpg.transform/gallery-horizontal-desktop-2x/5d2c390f4d7bbfe0e1ceff30817c7ec6c93e5fac/img.jpg",
-        "vodURL": "https://d8d913s460fub.cloudfront.net/krpanocloud/video/airpano/video-1920x960a-fs.mp4"
+        "vodURL": "https://videos.electroteque.org/360/hls/ultra_light_flight.m3u8"
     },
     {
         "id": 5,
@@ -67,6 +67,6 @@
         },
         "thumbnail": "https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/05_barcellona_ciamillo.jpg.transform/gallery-horizontal-desktop-2x/88fd760b269295c29e8ad5c6407b2bb389646d97/img.jpg",
         "poster":"https://static.sky.it/images/skysport/it/basket/eurolega/olimpia-milano-calendario-partite-eurolega-2022-23/05_barcellona_ciamillo.jpg.transform/gallery-horizontal-desktop-2x/88fd760b269295c29e8ad5c6407b2bb389646d97/img.jpg",
-        "vodURL": "https://d8d913s460fub.cloudfront.net/krpanocloud/video/airpano/video-1920x960a-fs.mp4"
+        "vodURL": "https://videos.electroteque.org/360/hls/ultra_light_flight.m3u8"
     }
 ]
