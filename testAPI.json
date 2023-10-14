@@ -1,0 +1,4 @@
+[
+{"id":0, "sea":true, "location":"Vigo", "date":"2018-01-10", "text":"some stuff \n some more \n \"blah\" \n", "place":"", "notes":"", "image":"", "lati":"", "longi":""},
+{"id":0, "sea":true, "location":"Coruna", "date":"2018-10-10", "text":"some stuff \n some more \n \"blah\" \n", "place":"", "notes":"", "image":"", "lati":"", "longi":""}
+]
