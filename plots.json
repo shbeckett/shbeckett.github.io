@@ -1,0 +1,511 @@
+[
+    {
+        "number": 1,
+        "buyer": "William Margerison of Ilkley aforesaid Solicitor",
+        "area": 505,
+        "address": "2 Bath Street"
+    },
+    {
+        "number": 2,
+        "buyer": "Thomas Kirkman Stubbins of Bradford in the said County, Accountant",
+        "area": 191,
+        "address": "65 Leeds Road"
+    },
+    {
+        "number": 3,
+        "buyer": "John Taylor and George Parsons both of Bradford aforesaid Ironmongers",
+        "area": 185,
+        "address": "67 Leeds Road"
+    },
+    {
+        "number": 4,
+        "buyer": "William Dean of Ilkley aforesaid Builder",
+        "area": 175,
+        "address": "69 Leeds Road"
+    },
+    {
+        "number": 5,
+        "buyer": "William Mitton of Ilkey aforesaid Bank Manager",
+        "area": 172,
+        "address": "71 Leeds Road"
+    },
+    {
+        "number": 6,
+        "buyer": "Mary Ann Moorhouse of Bradford aforesaid Widow",
+        "area": 164,
+        "address": "73 Leeds Road"
+    },
+    {
+        "number": 7,
+        "buyer": "Elizabeth Ann Sagar of Ilkley aforesaid Spinster",
+        "area": 158,
+        "address": "75 Leeds Road"
+    },
+    {
+        "number": 8,
+        "buyer": "Joseph Beanlands of Ilkley aforesaid Grocer",
+        "area": 152,
+        "address": "77 Leeds Road"
+    },
+    {
+        "number": 9,
+        "buyer": "blank",
+        "area": 150,
+        "address": "79 Leeds Road"
+    },
+    {
+        "number": 10,
+        "buyer": "blank",
+        "area": 149,
+        "address": "81 Leeds Road"
+    },
+    {
+        "number": 11,
+        "buyer": "Thomas Grunwell of Ilkley aforesaid Butcher",
+        "area": 149,
+        "address": "83 Leeds Road"
+    },
+    {
+        "number": 12,
+        "buyer": "The said Thomas Grunwell",
+        "area": 369,
+        "address": "1 Ash Street"
+    },
+    {
+        "number": 13,
+        "buyer": "Francois Xavier Nicholas Meyer of the Great Northern Hotel in the County of Middlesex, Hotel Manager",
+        "area": 368,
+        "address": "2 Ash Street"
+    },
+    {
+        "number": 14,
+        "buyer": "The said Francois Xavier Nicholas Meyer",
+        "area": 152,
+        "address": "85 Leeds Road"
+    },
+    {
+        "number": 15,
+        "buyer": "Francois Xavier Nicholas Meyer",
+        "area": 152,
+        "address": "87 Leeds Road"
+    },
+    {
+        "number": 16,
+        "buyer": "Francois Xavier Nicholas Meyer",
+        "area": 156,
+        "address": "89 Leeds Road"
+    },
+    {
+        "number": 17,
+        "buyer": "Thomas Cordingley, Abraham Cordingley and John Cordingley, all of Bradford aforesaid Plasterers",
+        "area": 162,
+        "address": "91 Leeds Road"
+    },
+    {
+        "number": 18,
+        "buyer": "Thomas Illingworth of Ilkley aforesaid Chemical Manufacturer",
+        "area": 166,
+        "address": "93 Leeds Road"
+    },
+    {
+        "number": 19,
+        "buyer": "The said Thomas Illingworth",
+        "area": 168,
+        "address": "95 Leeds Road"
+    },
+    {
+        "number": 20,
+        "buyer": "Edward Stephenson of Ilkley aforesaid Builder",
+        "area": 172,
+        "address": "97 Leeds Road"
+    },
+    {
+        "number": 21,
+        "area": 175,
+        "address": "99 Leeds Road"
+    },
+    {
+        "number": 22,
+        "buyer": "Rebecca Vickers of Ilkley aforesaid spinster",
+        "area": 177,
+        "address": "101 Leeds Road"
+    },
+    {
+        "number": 23,
+        "buyer": "John Shuttleworth of Ilkley aforesaid stationer",
+        "area": 181,
+        "address": "103 Leeds Road"
+    },
+    {
+        "number": 24,
+        "buyer": "The said John Shuttleworth",
+        "area": 453,
+        "address": "105 Leeds Road"
+    },
+    {
+        "number": 25,
+        "buyer": "The said Francois Xavier Nicholas Meyer",
+        "area": 373,
+        "address": "2 Beanlands Parade"
+    },
+    {
+        "number": 26,
+        "buyer": "The said Thomas Cordingley, Abraham Cordingley and John Cordingley",
+        "area": 242,
+        "address": "4 Beanlands Parade"
+    },
+    {
+        "number": 27,
+        "buyer": "The said William Margerison",
+        "area": 300,
+        "address": "6 Beanlands Parade"
+    },
+    {
+        "number": 28,
+        "area": 506,
+        "address": "8 Beanlands Parade"
+    },
+    {
+        "number": 29,
+        "buyer": "The said Thomas Illingworth",
+        "area": 531,
+        "address": "10 Beanlands Parade"
+    },
+    {
+        "number": 30,
+        "buyer": "The said Thomas Illingworth",
+        "area": 403,
+        "address": "12 Beanlands Parade"
+    },
+    {
+        "number": 31,
+        "buyer": "The said Thomas Illingworth",
+        "area": 403,
+        "address": "14 Beanlands Parade"
+    },
+    {
+        "number": 32,
+        "buyer": "The said Thomas Illingworth",
+        "area": 403,
+        "address": "16 Beanlands Parade"
+    },
+    {
+        "number": 33,
+        "buyer": "The said Thomas Illingworth",
+        "area": 403,
+        "address": "18 Beanlands Parade"
+    },
+    {
+        "number": 34,
+        "buyer": "The said Thomas Illingworth",
+        "area": 531,
+        "address": "20 Beanlands Parade"
+    },
+    {
+        "number": 35,
+        "buyer": "Joseph Smith of Ilkley aforesaid Wholesale Grocer",
+        "area": 353,
+        "address": "2 Ash Grove"
+    },
+    {
+        "number": 36,
+        "buyer": "The said Joseph Smith",
+        "area": 166,
+        "address": "4 Ash Grove"
+    },
+    {
+        "number": 37,
+        "buyer": "Thomas Clough of Heaton near Bradford aforesaid Contractor",
+        "area": 166,
+        "address": "6 Ash Grove"
+    },
+    {
+        "number": 38,
+        "buyer": "The said Thomas Clough",
+        "area": 166,
+        "address": "8 Ash Grove"
+    },
+    {
+        "number": 39,
+        "buyer": "The said Thomas Illingworth",
+        "area": 166,
+        "address": "10 Ash Grove"
+    },
+    {
+        "number": 40,
+        "buyer": "Richard Lister of Ilkley aforesaid Barman",
+        "area": 166,
+        "address": "12 Ash Grove"
+    },
+    {
+        "number": 41,
+        "buyer": "William Hartley of Ilkley aforesaid Joiner and Marshall Hainsworth of Ilkley aforesaid Gentleman",
+        "area": 166,
+        "address": "14 Ash Grove"
+    },
+    {
+        "number": 42,
+        "buyer": "The said Thomas Illingworth",
+        "area": 166,
+        "address": "16 Ash Grove"
+    },
+    {
+        "number": 43,
+        "buyer": "The said Thomas Illingworth",
+        "area": 166,
+        "address": "18 Ash Grove"
+    },
+    {
+        "number": 44,
+        "buyer": "Thomas Bollans of Bradford aforesaid Plumber",
+        "area": 166,
+        "address": "20 Ash Grove"
+    },
+    {
+        "number": 45,
+        "buyer": "Thomas Gee of Ilkley aforesaid Gentleman",
+        "area": 166,
+        "address": "22 Ash Grove"
+    },
+    {
+        "number": 46,
+        "buyer": "The said Thomas Gee",
+        "area": 166,
+        "address": "24 Ash Grove"
+    },
+    {
+        "number": 47,
+        "buyer": "William Brooksbank of Ilkley aforesaid Grocer",
+        "area": 353,
+        "address": "3 Ash Street"
+    },
+    {
+        "number": 48,
+        "buyer": "John Stead of Ilkley aforesaid Labourer",
+        "area": 353,
+        "address": "26 Ash Grove"
+    },
+    {
+        "number": 49,
+        "area": 166,
+        "address": "28 Ash Grove"
+    },
+    {
+        "number": 50,
+        "buyer": "Sarah Beanlands of Ilkley aforesaid Spinster",
+        "area": 166,
+        "address": "30 Ash Grove"
+    },
+    {
+        "number": 51,
+        "buyer": "The said Sarah Beanlands",
+        "area": 166,
+        "address": "32 Ash Grove"
+    },
+    {
+        "number": 52,
+        "buyer": "The said Thomas Illingworth",
+        "area": 166,
+        "address": "34 Ash Grove"
+    },
+    {
+        "number": 53,
+        "buyer": "The said Thomas Illingworth",
+        "area": 166,
+        "address": "36 Ash Grove"
+    },
+    {
+        "number": 54,
+        "area": 166,
+        "address": "38 Ash Grove"
+    },
+    {
+        "number": 55,
+        "buyer": "James Rhodes of Ilkley aforesaid Picture Dealer",
+        "area": 166,
+        "address": "40 Ash Grove"
+    },
+    {
+        "number": 56,
+        "buyer": "The said James Rhodes",
+        "area": 166,
+        "address": "42 Ash Grove"
+    },
+    {
+        "number": 57,
+        "buyer": "The said William Brooksbank",
+        "area": 166,
+        "address": "44 Ash Grove"
+    },
+    {
+        "number": 58,
+        "buyer": "The said William Brooksbank",
+        "area": 166,
+        "address": "46 Ash Grove"
+    },
+    {
+        "number": 59,
+        "buyer": "The said William Brooksbank",
+        "area": 166,
+        "address": "48 Ash Grove"
+    },
+    {
+        "number": 60,
+        "buyer": "John Holdsworth of Ilkley aforesaid Bathman",
+        "area": 353,
+        "address": "50 Ash Grove"
+    },
+    {
+        "number": 61,
+        "area": 285,
+        "address": "1 Ash Grove"
+    },
+    {
+        "number": 62,
+        "area": 166,
+        "address": "3 Ash Grove"
+    },
+    {
+        "number": 63,
+        "area": 166,
+        "address": "5 Ash Grove"
+    },
+    {
+        "number": 64,
+        "buyer": "John Wallace of Bradford aforesaid Painter",
+        "area": 166,
+        "address": "7 Ash Grove"
+    },
+    {
+        "number": 65,
+        "buyer": "The said John Wallace and Thomas Bollans and John Greenway of Bradford aforesaid Railway Goods Manager",
+        "area": 166,
+        "address": "9 Ash Grove"
+    },
+    {
+        "number": 66,
+        "buyer": "The said Thomas Illingworth",
+        "area": 166,
+        "address": "11 Ash Grove"
+    },
+    {
+        "number": 67,
+        "buyer": "The said Thomas Illingworth",
+        "area": 166,
+        "address": "13 Ash Grove"
+    },
+    {
+        "number": 68,
+        "buyer": "The said Thomas Illingworth",
+        "area": 166,
+        "address": "15 Ash Grove"
+    },
+    {
+        "number": 69,
+        "buyer": "The said Thomas Illingworth",
+        "area": 166,
+        "address": "17 Ash Grove"
+    },
+    {
+        "number": 70,
+        "buyer": "The said John Greenway",
+        "area": 166,
+        "address": "19 Ash Grove"
+    },
+    {
+        "number": 71,
+        "buyer": "Joseph Smith of Ilkley aforesaid Timber Merchant",
+        "area": 166,
+        "address": "21 Ash Grove"
+    },
+    {
+        "number": 72,
+        "buyer": "The said Joseph Smith",
+        "area": 166,
+        "address": "23 Ash Grove"
+    },
+    {
+        "number": 73,
+        "buyer": "The said Mary Ann Moorhouse",
+        "area": 353,
+        "address": "25 Ash Grove"
+    },
+    {
+        "number": 74,
+        "buyer": "John Green of Ilkley aforesaid Coal Merchant",
+        "area": 353,
+        "address": "27 Ash Grove"
+    },
+    {
+        "number": 75,
+        "buyer": "The said John Green",
+        "area": 166,
+        "address": "29 Ash Grove"
+    },
+    {
+        "number": 76,
+        "buyer": "The said William Brooksbank",
+        "area": 166,
+        "address": "31 Ash Grove"
+    },
+    {
+        "number": 77,
+        "buyer": "The said William Brooksbank",
+        "area": 166,
+        "address": "33 Ash Grove"
+    },
+    {
+        "number": 78,
+        "buyer": "The said Thomas Illingworth",
+        "area": 166,
+        "address": "35 Ash Grove"
+    },
+    {
+        "number": 79,
+        "buyer": "The said Thomas Illingworth",
+        "area": 166,
+        "address": "37 Ash Grove"
+    },
+    {
+        "number": 80,
+        "buyer": "The said Thomas Illingworth",
+        "area": 166,
+        "address": "39 Ash Grove"
+    },
+    {
+        "number": 81,
+        "buyer": "The said Thomas Illingworth",
+        "area": 166,
+        "address": "41 Ash Grove"
+    },
+    {
+        "number": 82,
+        "buyer": "The said Thomas Illingworth",
+        "area": 166,
+        "address": "43 Ash Grove"
+    },
+    {
+        "number": 83,
+        "buyer": "The said Thomas Illingworth",
+        "area": 166,
+        "address": "45 Ash Grove"
+    },
+    {
+        "number": 84,
+        "buyer": "Sidney Moorhouse of Ilkley aforesaid Coal Weighman",
+        "area": 166,
+        "address": "47 Ash Grove"
+    },
+    {
+        "number": 85,
+        "buyer": "John Boddy of Ilkley aforesaid Carter",
+        "area": 166,
+        "address": "49 Ash Grove"
+    },
+    {
+        "number": 86,
+        "buyer": "Martin Reynard of Ilkley aforesaid Quarryman",
+        "area": 353,
+        "address": "51 Ash Grove"
+    }
+]
